@@ -1,6 +1,6 @@
 use either::Either::{self};
 
-fn sum_mix(arr: &[Either<i32, String>]) -> i32 {
+pub fn sum_mix(arr: &[Either<i32, String>]) -> i32 {
     let mut result: i32 = 0;
     for either in arr {
         match either {
