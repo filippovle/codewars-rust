@@ -1,4 +1,4 @@
-fn get_count(string: &str) -> usize {
+pub fn get_count(string: &str) -> usize {
     let mut vowels_count: usize = 0;
 
     for c in string.chars() {
