@@ -1,4 +1,4 @@
-fn series_sum(n: u32) -> String {
+pub fn series_sum(n: u32) -> String {
     if n == 0 {
         return String::from("0.00");
     }

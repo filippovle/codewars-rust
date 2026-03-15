@@ -1,4 +1,4 @@
-fn expressions_matter(a: u64, b: u64, c: u64) -> u64 {
+pub fn expressions_matter(a: u64, b: u64, c: u64) -> u64 {
     let mut result: u64 = 0;
     if a * b * c > result {
         result = a * b * c;
