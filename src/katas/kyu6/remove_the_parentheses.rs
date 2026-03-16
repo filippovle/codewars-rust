@@ -1,4 +1,4 @@
-fn remove_parentheses(s: &str) -> String {
+pub fn remove_parentheses(s: &str) -> String {
     let mut counter = 0;
     let mut result = String::new();
     for c in s.chars() {
