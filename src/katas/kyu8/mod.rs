@@ -7,3 +7,4 @@ pub mod return_negative;
 pub mod beginner_series_clock;
 pub mod bartender_drinks;
 pub mod traffic_light;
+pub mod remove_string_spaces;
