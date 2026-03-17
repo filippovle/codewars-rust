@@ -10,3 +10,4 @@ pub mod traffic_light;
 pub mod remove_string_spaces;
 pub mod third_angle_of_a_triangle;
 pub mod opposite_number;
+pub mod is_he_gonna_survive;
