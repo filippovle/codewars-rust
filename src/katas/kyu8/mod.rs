@@ -12,3 +12,4 @@ pub mod third_angle_of_a_triangle;
 pub mod opposite_number;
 pub mod is_he_gonna_survive;
 pub mod the_feast_of_many_beasts;
+pub mod difference_of_volumes_of_cuboids;
