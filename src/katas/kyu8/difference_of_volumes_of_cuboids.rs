@@ -1,4 +1,4 @@
-fn find_difference(a: &[i32; 3], b: &[i32; 3]) -> i32 {
+pub fn find_difference(a: &[i32; 3], b: &[i32; 3]) -> i32 {
     let sum1: i32 = a.iter().copied().reduce(|s, d| s * d).unwrap();
     let sum2: i32 = b.iter().copied().reduce(|s, d| s * d).unwrap();
     sum2.abs_diff(sum1).try_into().unwrap()
