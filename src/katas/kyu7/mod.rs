@@ -7,3 +7,4 @@ pub mod is_this_a_triangle;
 pub mod form_the_minimum;
 pub mod two_to_one;
 pub mod even_numbers_in_an_array;
+pub mod find_the_middle_element;
