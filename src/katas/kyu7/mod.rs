@@ -6,3 +6,4 @@ pub mod sort_numbers;
 pub mod is_this_a_triangle;
 pub mod form_the_minimum;
 pub mod two_to_one;
+pub mod even_numbers_in_an_array;
