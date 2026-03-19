@@ -15,3 +15,4 @@ pub mod the_feast_of_many_beasts;
 pub mod difference_of_volumes_of_cuboids;
 pub mod simple_multiplication;
 pub mod contamination_string;
+pub mod USD_CNY;
