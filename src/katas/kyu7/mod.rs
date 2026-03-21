@@ -8,3 +8,4 @@ pub mod form_the_minimum;
 pub mod two_to_one;
 pub mod even_numbers_in_an_array;
 pub mod find_the_middle_element;
+pub mod categorize_new_member;
